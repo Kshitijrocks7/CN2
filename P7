@@ -84,3 +84,4 @@ exec nam 002.nam &
 exit 0
 }
 $ns run
+$ns run
